@@ -1,0 +1,15 @@
+I:\Data\WFAccess\bin\Debug\WFAccess.exe.config
+I:\Data\WFAccess\bin\Debug\WFAccess.exe
+I:\Data\WFAccess\bin\Debug\WFAccess.pdb
+I:\Data\WFAccess\obj\Debug\WFAccess.csproj.AssemblyReference.cache
+I:\Data\WFAccess\obj\Debug\WFAccess.Form1.resources
+I:\Data\WFAccess\obj\Debug\WFAccess.Properties.Resources.resources
+I:\Data\WFAccess\obj\Debug\WFAccess.csproj.GenerateResource.cache
+I:\Data\WFAccess\obj\Debug\WFAccess.csproj.CoreCompileInputs.cache
+I:\Data\WFAccess\obj\Debug\WFAccess.exe
+I:\Data\WFAccess\obj\Debug\WFAccess.pdb
+I:\Data\WFAccess\obj\Debug\WFAccess.exe.config
+I:\Data\WFAccess\bin\Debug\WFAccess.exe.manifest
+I:\Data\WFAccess\bin\Debug\WFAccess.application
+I:\Data\WFAccess\obj\Debug\WFAccess.exe.manifest
+I:\Data\WFAccess\obj\Debug\WFAccess.application
